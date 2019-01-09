@@ -1,0 +1,36 @@
+{
+  "info": {
+    "timeP1Seconds": {
+      "address": 179,
+      "type": "|d1"
+    },
+    "timeP1HundredthOfSecond": {
+      "address": 181,
+      "type": "|d1"
+    },
+    "timeUntilStart": {
+      "address": 141,
+      "type": "|u1"
+    },
+    "p1StartedTooEarly": {
+      "address": 212,
+      "type": "|u1"
+    },
+    "p1Distance":{
+      "address": 186,
+      "type": "|u1"
+    },  
+    "p1Blown1": {
+      "address": 212,
+      "type": "|u1"
+    },
+    "p1Blown2": {
+      "address": 206,
+      "type": "|u1"
+    },
+    "playerTurn":{
+      "address": 143,
+      "type": "|u1"
+    }
+  }
+}
