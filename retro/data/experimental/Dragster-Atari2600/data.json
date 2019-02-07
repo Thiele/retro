@@ -1,5 +1,9 @@
 {
   "info": {
+    "tachometer":{
+      "address": 168,
+      "type": "|u1"
+    },
     "timeP1Seconds": {
       "address": 179,
       "type": "|d1"
@@ -16,8 +20,12 @@
       "address": 212,
       "type": "|u1"
     },
-    "p1Distance":{
+    "p1Distance1":{
       "address": 186,
+      "type": "|u1"
+    },
+    "p1Distance2":{
+      "address": 194,
       "type": "|u1"
     },  
     "p1Blown1": {
